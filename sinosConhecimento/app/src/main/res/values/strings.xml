@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"><![CDATA[Sinos & Conhecimento]]></string>
+    <string name="sinos_conhecimento"><![CDATA[Sinos & Conhecimento]]></string>
+    <string name="botao_entrar">Entrar</string>
+    <string name="todo">TODO</string>
+    <string name="senha">Senha</string>
+    <string name="email">E-mail</string>
+    <string name="bem_vindo_adm">Bem vindo Administrador</string>
+    <string name="bem_vindo_aluno">Bem vindo aluno</string>
+    <string name="sair">Sair</string>
+    <string name="sinos_conhecimento_aluno"><![CDATA[Sinos & Conhecimento]]></string>
+</resources>
